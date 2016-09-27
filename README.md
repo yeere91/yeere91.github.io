@@ -1,2 +1,6 @@
 # yeere91.github.io
-NYCDSA Bootcamp 7 Repo
+ Copyright @ Regan Yee
+ 
+## Description
+This will be the main portfolio page for Regan Yee. I am
+currently located in New York City.
